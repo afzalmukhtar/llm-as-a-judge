@@ -88,9 +88,12 @@ llm-as-a-judge/
 
 See [cheatsheet.md](cheatsheet.md) for the complete quick reference.
 
-## Bonus: LLM Council (Coming Soon)
+## Bonus: Multi-LLM Deliberation
 
-A full multi-round deliberation system with a dedicated GitHub repository will be added as a bonus module.
+The workshop includes a bonus section covering:
+
+- **Karpathy's LLM Council** -- How anonymized peer review across multiple models eliminates inter-model bias (3-stage: first opinions, anonymized ranking, chairman synthesis)
+- **LLM Tribunal** -- A practical evaluation tool I built inspired by Karpathy's approach, using expert judge personas with configurable harshness, cross-examination, and scored verdicts with rubric breakdowns
 
 ## License
 
