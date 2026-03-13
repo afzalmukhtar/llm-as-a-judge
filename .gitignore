@@ -26,6 +26,10 @@ env/
 .DS_Store
 Thumbs.db
 
+# Lock files
+uv.lock
+*.lock
+
 # Environment
 .env
 .env.local
